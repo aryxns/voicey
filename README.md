@@ -1,2 +1,2 @@
 # voicey
-Real-time voice translation. Work in progress.
+Real-time cli voice translation. Work in progress.
